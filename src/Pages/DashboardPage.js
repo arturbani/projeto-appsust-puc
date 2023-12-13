@@ -15,7 +15,7 @@ export const DashboardPage = () => (
       gap="90px"
     >
       <Heading color="#667080">Dashboard</Heading>
-      <ReportsIframe />
+      <ReportsIframe src="https://app.powerbi.com/view?r=eyJrIjoiOThhYzNmMTUtMTYwZC00N2NmLWJjOTItOWQyMmI4ZTQ5YzY5IiwidCI6IjFjY2EyNzY5LTEyZmUtNGRhNS1iZTc5LWQxYzEzOTBhZmUwNSJ9" />
     </Flex>
   </Flex>
 );

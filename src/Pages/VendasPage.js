@@ -15,7 +15,7 @@ export const VendasPage = () => (
       gap="90px"
     >
       <Heading color="#667080">Dashboard - Vendas</Heading>
-      <ReportsIframe />
+      <ReportsIframe src="https://app.powerbi.com/view?r=eyJrIjoiOThhYzNmMTUtMTYwZC00N2NmLWJjOTItOWQyMmI4ZTQ5YzY5IiwidCI6IjFjY2EyNzY5LTEyZmUtNGRhNS1iZTc5LWQxYzEzOTBhZmUwNSJ9&pageName=ReportSectionabfddadaebe89b8bb1e6" />
     </Flex>
   </Flex>
 );
