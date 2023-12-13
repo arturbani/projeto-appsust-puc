@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/projeto-appsust-puc/static/css/main.e6c13ad2.css",
-    "main.js": "/projeto-appsust-puc/static/js/main.a1e61cf7.js",
+    "main.js": "/projeto-appsust-puc/static/js/main.67f15c05.js",
     "static/js/787.05075144.chunk.js": "/projeto-appsust-puc/static/js/787.05075144.chunk.js",
     "index.html": "/projeto-appsust-puc/index.html",
     "main.e6c13ad2.css.map": "/projeto-appsust-puc/static/css/main.e6c13ad2.css.map",
-    "main.a1e61cf7.js.map": "/projeto-appsust-puc/static/js/main.a1e61cf7.js.map",
+    "main.67f15c05.js.map": "/projeto-appsust-puc/static/js/main.67f15c05.js.map",
     "787.05075144.chunk.js.map": "/projeto-appsust-puc/static/js/787.05075144.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a1e61cf7.js"
+    "static/js/main.67f15c05.js"
   ]
 }
