@@ -14,27 +14,27 @@ import { EntregasPage } from "./Pages/EntregasPage";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/projeto-appsust-puc/",
     element: <DashboardPage />,
   },
   {
-    path: "/triagem",
+    path: "/projeto-appsust-puc/triagem",
     element: <TriagemPage />,
   },
   {
-    path: "/colaboradores",
+    path: "/projeto-appsust-puc/colaboradores",
     element: <ColaboradoresPage />,
   },
   {
-    path: "/vendas",
+    path: "/projeto-appsust-puc/vendas",
     element: <VendasPage />,
   },
   {
-    path: "/estoque",
+    path: "/projeto-appsust-puc/estoque",
     element: <EstoquePage />,
   },
   {
-    path: "/entregas",
+    path: "/projeto-appsust-puc/entregas",
     element: <EntregasPage />,
   },
 ]);
