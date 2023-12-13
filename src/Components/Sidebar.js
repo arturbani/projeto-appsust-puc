@@ -19,12 +19,12 @@ export const Sidebar = () => (
     bgColor="#EEF1F4"
   >
     <Box>
-      <SidebarItem title="Home" icon={<Home />} url="/" />
-      <SidebarItem title="Entregas" icon={<BoxIcon />} url="/entregas" />
-      <SidebarItem title="Colaboradores" icon={<Users />} url="/colaboradores" />
-      <SidebarItem title="Triagem" icon={<List />} url="/triagem" />
-      <SidebarItem title="Estoque" icon={<Archive />} url="/estoque" />
-      <SidebarItem title="Vendas" icon={<CreditCard />} url="/vendas" />
+      <SidebarItem title="Home" icon={<Home />} url="/projeto-appsust-puc/" />
+      <SidebarItem title="Entregas" icon={<BoxIcon />} url="/projeto-appsust-puc/entregas" />
+      <SidebarItem title="Colaboradores" icon={<Users />} url="/projeto-appsust-puc/colaboradores" />
+      <SidebarItem title="Triagem" icon={<List />} url="/projeto-appsust-puc/triagem" />
+      <SidebarItem title="Estoque" icon={<Archive />} url="/projeto-appsust-puc/estoque" />
+      <SidebarItem title="Vendas" icon={<CreditCard />} url="/projeto-appsust-puc/vendas" />
     </Box>
     <Box>
       <Box
